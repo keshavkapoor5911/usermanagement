@@ -1,0 +1,21 @@
+.abouth1{
+    margin-top: 20px;
+    margin-left: 650px;
+}
+
+.outerabout{
+    margin-top: 20px;
+    margin-left: 70px;
+}
+.outerabout p{
+    font-size: 30px;
+    height: 45vh;
+    width: 90%;
+    background-color:plum;
+    /* background-color:#90D5FF; */
+
+    padding-left: 30px;
+    padding-right: 30px;
+    border-radius: 10px;
+    padding-top: 20px;
+}

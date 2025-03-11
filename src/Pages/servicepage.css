@@ -1,0 +1,36 @@
+.serviceh1{
+    margin-left: 650px;
+    margin-top: 20px;
+}
+
+.outer_box{
+    margin-left: 70px;
+    margin-top: 80px;
+    display: flex;
+    gap: 80px;
+}
+
+.box {
+    height: 200px;
+    width: 400px;
+    background-color: #ff9999;
+    border-radius: 10px;
+    /* padding-left: 170px; */
+}
+
+.box h3{
+    font-size: 25px;
+    margin-top: 15px;
+    padding-left: 150px;
+}
+
+.box p {
+    padding-left: 40px;
+    padding-right: 30px;
+    margin-top: 25px;
+    font-size: 18px;
+}
+
+/* .box p {
+    padding-left: 20px;
+} */

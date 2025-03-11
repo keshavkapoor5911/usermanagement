@@ -1,0 +1,36 @@
+.table_head td {
+    height: 50px;
+    width: 110px;
+    text-align: center;
+    background-color: #DE5D83;
+}
+
+.table_body td {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: bisque;
+}
+
+.table_data {
+    margin-left: 370px;
+    margin-top: 20px;
+}
+
+.h1 {
+    margin-left: 490px
+}
+
+/* table thead tr td {
+    height: 50px;
+    width: 110px;
+    text-align: center;
+background-color: #DE5D83;
+}
+
+table tbody tr td {
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    background-color: bisque;
+} */
