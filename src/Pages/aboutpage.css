@@ -1,17 +1,18 @@
-.abouth1{
+.abouth1 {
     margin-top: 20px;
     margin-left: 650px;
 }
 
-.outerabout{
+.outerabout {
     margin-top: 20px;
     margin-left: 70px;
 }
-.outerabout p{
+
+.outerabout p {
     font-size: 30px;
     height: 45vh;
     width: 90%;
-    background-color:plum;
+    background-color: plum;
     /* background-color:#90D5FF; */
 
     padding-left: 30px;
